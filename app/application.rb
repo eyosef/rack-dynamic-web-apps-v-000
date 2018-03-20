@@ -14,4 +14,4 @@ class Application
     resp.finish
   end #method
 
-end
+end #class
